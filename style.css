@@ -1,0 +1,141 @@
+
+.body{
+    width: 100%;
+}
+.navbar{
+    background-color: blue;
+    width: 100%;
+    
+    
+    
+}
+.head{
+    display: flex;
+    position: fixed;
+    width: 100%;
+    
+    
+}
+img{
+    background-color: blue;
+    width: 100px;
+    margin-left: 30px;
+
+
+}
+img:hover{
+    
+}
+#set{
+    
+    border-style: none;
+    color: white;
+    background-color: blue;
+    font-size: larger;
+    margin-left: 20px;
+    
+}
+.but{
+    margin-left: 10px;
+    border-style: none;
+    color: white;
+    font-size: larger;
+    background-color: blue;
+    
+}
+.butt{
+    border-color: white;
+    color: white;
+    font-size: larger;
+    background-color: blue;
+    /* margin-left: 33.9rem; */
+    padding-right: 1px;
+    
+        
+}
+.pics{
+    display: flex;
+}
+.can{
+    
+    padding-top: 150px;
+    width: 50%;
+    padding-left: 200px;
+    margin-top: 0px;
+    background-color:black;
+
+}
+.size{
+    width: 50%;
+}
+.mat{
+    margin-top: 100px;
+    width: 50%;
+    background-color: black;
+}
+.sty{
+    padding-top: 100px;
+    /* font-size: larger; */
+    padding-left:200px ;
+    color: white;
+}
+.st{
+
+    /* font-size: larger; */
+    padding-left:200px ;
+    color: white;
+}
+.pad{
+   margin-left: 150px;
+}
+.flexs{
+    display: flex;
+}
+.two{
+    width: 50%;
+    /* margin-left: 1px; */
+}
+.mann{
+    width: 100%;
+    background-color: blue;
+    margin-left: 0px;
+    padding-left: 200px;
+    padding-top: 50px;
+    
+}
+.mannn{
+    width: 100%;
+    background-color: blue;
+    margin-left: 0px;
+    padding-left: 200px;
+    padding-top: 300px;
+    
+}
+.cor{
+    width: 100%;
+    background-color: blue;
+    margin-left: 0px;
+    padding-left: 200px;
+    padding-top: 50px;
+    color: white;
+    padding-bottom: 245px;
+}
+.footer{
+    display: flex;
+    background-color: blue;
+    margin-top: 0px;
+}
+.bn{
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+}
+.last{
+    border-color: white;
+    color: white;
+    font-size: larger;
+    background-color: blue;
+    justify-content: flex-end;
+    margin-top: 30px;
+        margin-left: 400px;
+}
